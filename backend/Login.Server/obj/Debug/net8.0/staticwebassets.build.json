@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ffk15iMAB4kn6YQDh06AI53v+LAgg8rtc4rXIbYlCMA=",
+  "Source": "Login.Server",
+  "BasePath": "_content/Login.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
